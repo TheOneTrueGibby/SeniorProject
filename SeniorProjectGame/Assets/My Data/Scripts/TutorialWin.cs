@@ -34,7 +34,7 @@ public class TutorialWin: MonoBehaviour, IPointerExitHandler, IPointerEnterHandl
 
     void OnDestroy()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("OpenFeild");
     }
 
 

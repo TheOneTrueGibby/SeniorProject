@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 124
+  controlID: 128
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 201
     height: 317
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/My Data/Scenes
+    - Assets/My Data/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/My Data/Scenes
+  - Assets/My Data/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\gibso\Downloads\SeniorProject\SeniorProjectGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0e370000
-    m_LastClickedID: 14094
-    m_ExpandedIDs: 00000000fe360000003700000237000000ca9a3b
+    m_SelectedIDs: 08370000
+    m_LastClickedID: 14088
+    m_ExpandedIDs: 00000000f6360000f8360000fa36000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000fe3600000037000002370000
+    m_ExpandedIDs: 00000000f6360000f8360000fa360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,7 +504,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 66f7ffff80f7ffff82f8ffff96f8ffff9ef8ffff00f9ffffa8f9ffff1cfaffff92faffffa0faffff54fbffff
+      m_ExpandedIDs: bef2ffffd8f2ffffdaf2ffffe2f2ffffe6f2ffff34f3ffff4ef3ffff50f3ffff58f3ffff5cf3ffffaaf3ffffc4f3ffffc6f4ffffdaf4ffffe2f4ffffa4f5ffffcaf6ffff7ef7ffff90f7ffff4ef8ffff68f8ffff6af9ffff7ef9ffff86f9ffff06faffffaefaffff66fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -616,9 +616,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.4220767, y: 0.15562369, z: -0.0737979, w: -0.8900485}
   m_Size:
-    m_Target: 28.89512
+    m_Target: 0.6214045
     speed: 2
-    m_Value: 28.89512
+    m_Value: 0.6214045
   m_Ortho:
     m_Target: 0
     speed: 2

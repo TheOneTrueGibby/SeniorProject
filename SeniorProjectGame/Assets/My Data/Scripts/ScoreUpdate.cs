@@ -53,7 +53,7 @@ public class ScoreUpdate : MonoBehaviour
     {
         yield return new WaitForSeconds(6);
         //stringScoreText = scoreText.text;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("Finish");
     }
 
     void PlayerWinClock()
